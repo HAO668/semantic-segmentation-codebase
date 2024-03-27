@@ -18,5 +18,5 @@ ln -s $your_dataset_path data
 
 ## Experiments
 Our experiments are placed in `.experiment/` and here are some implementations:
-- DeepLabv1 retrain on [SEAM](https://github.com/Hao668/SEAM) pseudo labels. [link](https://github.com/Hao668/semantic-segmentation-codebase/tree/main/experiment/daenv1-pseudovoc)
+- DeepLabv1 retrain on [DAEN](https://github.com/Hao668/SEAM) pseudo labels. [link](https://github.com/Hao668/semantic-segmentation-codebase/tree/main/experiment/daenv1-pseudovoc)
 
